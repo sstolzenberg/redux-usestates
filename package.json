@@ -1,0 +1,24 @@
+{
+  "name": "@globalsw/redux-usestates",
+  "version": "1.0.0",
+  "description": "useStates for the Redux Store: read-only/read-write access, asynchronous, and compatible with 3rd party useState requirements",
+  "license": "MIT",
+  "repository": "sstolzenberg/redux-usestates",
+  "main": "src/index.js",
+  "keywords": [
+    "redux-state",
+    "react-redux-state",
+    "redux",
+    "react-redux",
+    "react",
+    "async-redux",
+    "redux-usestate"
+  ],
+  "dependencies": {},
+  "peerDependencies": {
+    "nested-property": "^4.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.6"
+  }
+}
